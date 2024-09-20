@@ -17,3 +17,5 @@
 5. 头像上传
 6. 用户名检查
 ```
+## FastApi之Python高效率框架全集：
+https://www.bilibili.com/video/BV1Fi4y1w7iv/?p=27&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=5694f4bf24b9d62c340185d53734aa42
